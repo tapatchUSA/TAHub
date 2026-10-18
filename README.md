@@ -69,7 +69,7 @@ scoop install tapatch/tahub
 | Version | Released | Installer | VirusTotal | SHA-256 |
 |---|---|---|---|---|
 | [1.0.1](https://github.com/tapatchUSA/TAHub/releases/tag/v1.0.1) | 2026-10-17 | [TAHub-Setup-1.0.1.exe](https://github.com/tapatchUSA/TAHub/releases/download/v1.0.1/TAHub-Setup-1.0.1.exe) | [1 / 71](https://www.virustotal.com/gui/file/34a8e9d807a1238a7b6a90ff5c9f65cc4f1ff8199b9d41a7b1a4fd4a5c78a979/detection) | `34a8e9d807a1238a…` |
-| [1.0.0](https://github.com/tapatchUSA/TAHub/releases/tag/v1.0.0) | 2026-10-09 | [TAHub-Setup-1.0.0.exe](https://github.com/tapatchUSA/TAHub/releases/download/v1.0.0/TAHub-Setup-1.0.0.exe) | [1 / 71](https://www.virustotal.com/gui/file/e79301a2df2775ea90b6f80eea635d07b5d75212546e71047e13f35bcba0c945/detection) | `e79301a2df2775ea…` |
+| [1.0.0](https://github.com/tapatchUSA/TAHub/releases/tag/v1.0.0) | 2026-10-17 | [TAHub-Setup-1.0.0.exe](https://github.com/tapatchUSA/TAHub/releases/download/v1.0.0/TAHub-Setup-1.0.0.exe) | [1 / 71](https://www.virustotal.com/gui/file/e79301a2df2775ea90b6f80eea635d07b5d75212546e71047e13f35bcba0c945/detection) | `e79301a2df2775ea…` |
 
 ## Security
 
