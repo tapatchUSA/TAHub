@@ -2,7 +2,7 @@
 <h1 align="center">TA Hub</h1>
 <p align="center"><b>Every TAPATCH tool in one app.</b></p>
 <p align="center">App Manager · Windows 10/11 · x64 · ~3 MB · Free for personal use</p>
-<p align="center"><a href="https://github.com/tapatchUSA/TAHub/releases/latest"><b>⬇ Download TA Hub 1.0.2</b></a> &nbsp;·&nbsp; <a href="https://tapatch.com/tools/tahub/">tapatch.com/tools/tahub</a></p>
+<p align="center"><a href="https://github.com/tapatchUSA/TAHub/releases/latest"><b>⬇ Download TA Hub 1.0.3</b></a> &nbsp;·&nbsp; <a href="https://tapatch.com/tools/tahub/">tapatch.com/tools/tahub</a></p>
 
 <p align="center">
 <img src="screenshots/tahub-v1.0.0-tools.png" alt="TA Hub — Every TAPATCH tool, ready to install, update or open"><br>
@@ -42,18 +42,16 @@ English, Chinese, Russian, Spanish, Portuguese, German, Japanese, French, Polish
 
 - Windows 10/11 only. Installing or updating a tool asks Windows for administrator permission, once per tool. TA Hub needs the internet to check for updates and download tools; offline, it shows the list it saved last time.
 
-## What's new in 1.0.2
+## What's new in 1.0.3
 
-- New Custom theme: pick your own accent, background, panel and text colors
-- Background pictures and GIFs: add as many as you like in Settings, tick the ones to show (or Select all), and the ticked ones take turns
-- Sliders set how strong the picture is and how see-through the panels are; turn it off any time
-- The installer's license text matches the current Terms
+- Now opens in virtual machines, Remote Desktop and on PCs without a graphics driver: it switches to Direct3D 12 when OpenGL doesn't work
+- If the window still can't open, a message says why instead of the app closing without a word
 
 Release notes for every version are on the [Releases](https://github.com/tapatchUSA/TAHub/releases) page and in [release-notes/](release-notes/).
 
 ## Install
 
-1. Download **TAHub-Setup-1.0.2.exe** from the [latest release](https://github.com/tapatchUSA/TAHub/releases/latest) or from [tapatch.com](https://tapatch.com/tools/tahub/).
+1. Download **TAHub-Setup-1.0.3.exe** from the [latest release](https://github.com/tapatchUSA/TAHub/releases/latest) or from [tapatch.com](https://tapatch.com/tools/tahub/).
 2. Run it. The installer and the app come in 10 languages.
 3. Accept the Terms of Service on first launch.
 
@@ -70,17 +68,18 @@ scoop install tapatch/tahub
 
 | Version | Released | Installer | VirusTotal | SHA-256 |
 |---|---|---|---|---|
+| [1.0.3](https://github.com/tapatchUSA/TAHub/releases/tag/v1.0.3) | 2026-11-11 | [TAHub-Setup-1.0.3.exe](https://github.com/tapatchUSA/TAHub/releases/download/v1.0.3/TAHub-Setup-1.0.3.exe) | [0 / 71](https://www.virustotal.com/gui/file/ba0a2ba2b2992db3dc5e6c4215c05b1d749a294bb417ed385577e61dcc0f48fc/detection) | `ba0a2ba2b2992db3…` |
 | [1.0.2](https://github.com/tapatchUSA/TAHub/releases/tag/v1.0.2) | 2026-11-05 | [TAHub-Setup-1.0.2.exe](https://github.com/tapatchUSA/TAHub/releases/download/v1.0.2/TAHub-Setup-1.0.2.exe) | [1 / 71](https://www.virustotal.com/gui/file/cfa379ef59c4073ab974f9f75db839905c9ddb0602d27b07fe22e1c1dc081c95/detection) | `cfa379ef59c4073a…` |
 | [1.0.1](https://github.com/tapatchUSA/TAHub/releases/tag/v1.0.1) | 2026-10-17 | [TAHub-Setup-1.0.1.exe](https://github.com/tapatchUSA/TAHub/releases/download/v1.0.1/TAHub-Setup-1.0.1.exe) | [0 / 71](https://www.virustotal.com/gui/file/34a8e9d807a1238a7b6a90ff5c9f65cc4f1ff8199b9d41a7b1a4fd4a5c78a979/detection) | `34a8e9d807a1238a…` |
 | [1.0.0](https://github.com/tapatchUSA/TAHub/releases/tag/v1.0.0) | 2026-10-17 | [TAHub-Setup-1.0.0.exe](https://github.com/tapatchUSA/TAHub/releases/download/v1.0.0/TAHub-Setup-1.0.0.exe) | [0 / 71](https://www.virustotal.com/gui/file/e79301a2df2775ea90b6f80eea635d07b5d75212546e71047e13f35bcba0c945/detection) | `e79301a2df2775ea…` |
 
 ## Security
 
-Every installer is scanned on VirusTotal before release. TA Hub 1.0.2: **1 / 71** engines flag it · [view report](https://www.virustotal.com/gui/file/cfa379ef59c4073ab974f9f75db839905c9ddb0602d27b07fe22e1c1dc081c95/detection)
+Every installer is scanned on VirusTotal before release. TA Hub 1.0.3: **0 / 71** engines flag it · [view report](https://www.virustotal.com/gui/file/ba0a2ba2b2992db3dc5e6c4215c05b1d749a294bb417ed385577e61dcc0f48fc/detection)
 
 **SHA-256**
 ```
-cfa379ef59c4073ab974f9f75db839905c9ddb0602d27b07fe22e1c1dc081c95
+ba0a2ba2b2992db3dc5e6c4215c05b1d749a294bb417ed385577e61dcc0f48fc
 ```
 
 ## Built with
