@@ -2,7 +2,7 @@
 <h1 align="center">TA Hub</h1>
 <p align="center"><b>Every TAPATCH tool in one app.</b></p>
 <p align="center">App Manager · Windows 10/11 · x64 · ~3 MB · Free for personal use</p>
-<p align="center"><a href="https://github.com/tapatchUSA/TAHub/releases/latest"><b>⬇ Download TA Hub 1.0.4</b></a> &nbsp;·&nbsp; <a href="https://tapatch.com/tools/tahub/">tapatch.com/tools/tahub</a></p>
+<p align="center"><a href="https://github.com/tapatchUSA/TAHub/releases/latest"><b>⬇ Download TA Hub 1.0.5</b></a> &nbsp;·&nbsp; <a href="https://tapatch.com/tools/tahub/">tapatch.com/tools/tahub</a></p>
 
 <p align="center">
 <img src="screenshots/tahub-v1.0.0-tools.png" alt="TA Hub — Every TAPATCH tool, ready to install, update or open"><br>
@@ -42,15 +42,15 @@ English, Chinese, Russian, Spanish, Portuguese, German, Japanese, French, Polish
 
 - Windows 10/11 only. Installing or updating a tool asks Windows for administrator permission, once per tool. TA Hub needs the internet to check for updates and download tools; offline, it shows the list it saved last time.
 
-## What's new in 1.0.4
+## What's new in 1.0.5
 
-- Tool pages no longer show the video's title as an extra line at the bottom
+- Tool videos now show their YouTube title, the same as on the website
 
 Release notes for every version are on the [Releases](https://github.com/tapatchUSA/TAHub/releases) page and in [release-notes/](release-notes/).
 
 ## Install
 
-1. Download **TAHub-Setup-1.0.4.exe** from the [latest release](https://github.com/tapatchUSA/TAHub/releases/latest) or from [tapatch.com](https://tapatch.com/tools/tahub/).
+1. Download **TAHub-Setup-1.0.5.exe** from the [latest release](https://github.com/tapatchUSA/TAHub/releases/latest) or from [tapatch.com](https://tapatch.com/tools/tahub/).
 2. Run it. The installer and the app come in 10 languages.
 3. Accept the Terms of Service on first launch.
 
@@ -67,6 +67,7 @@ scoop install tapatch/tahub
 
 | Version | Released | Installer | VirusTotal | SHA-256 |
 |---|---|---|---|---|
+| [1.0.5](https://github.com/tapatchUSA/TAHub/releases/tag/v1.0.5) | 2026-11-15 | [TAHub-Setup-1.0.5.exe](https://github.com/tapatchUSA/TAHub/releases/download/v1.0.5/TAHub-Setup-1.0.5.exe) | [0 / 71](https://www.virustotal.com/gui/file/eecfc1e94a64642a6a7f106cb77e4b3cdd00841554841c448fb37a3eae003077/detection) | `eecfc1e94a64642a…` |
 | [1.0.4](https://github.com/tapatchUSA/TAHub/releases/tag/v1.0.4) | 2026-11-15 | [TAHub-Setup-1.0.4.exe](https://github.com/tapatchUSA/TAHub/releases/download/v1.0.4/TAHub-Setup-1.0.4.exe) | [0 / 71](https://www.virustotal.com/gui/file/ffbaf9364965b8333a69fae11d9f12e9cbc034a1ffe5ef2576018f4206bf0c1c/detection) | `ffbaf9364965b833…` |
 | [1.0.3](https://github.com/tapatchUSA/TAHub/releases/tag/v1.0.3) | 2026-11-11 | [TAHub-Setup-1.0.3.exe](https://github.com/tapatchUSA/TAHub/releases/download/v1.0.3/TAHub-Setup-1.0.3.exe) | [0 / 71](https://www.virustotal.com/gui/file/ba0a2ba2b2992db3dc5e6c4215c05b1d749a294bb417ed385577e61dcc0f48fc/detection) | `ba0a2ba2b2992db3…` |
 | [1.0.2](https://github.com/tapatchUSA/TAHub/releases/tag/v1.0.2) | 2026-11-05 | [TAHub-Setup-1.0.2.exe](https://github.com/tapatchUSA/TAHub/releases/download/v1.0.2/TAHub-Setup-1.0.2.exe) | [1 / 71](https://www.virustotal.com/gui/file/cfa379ef59c4073ab974f9f75db839905c9ddb0602d27b07fe22e1c1dc081c95/detection) | `cfa379ef59c4073a…` |
@@ -75,11 +76,11 @@ scoop install tapatch/tahub
 
 ## Security
 
-Every installer is scanned on VirusTotal before release. TA Hub 1.0.4: **0 / 71** engines flag it · [view report](https://www.virustotal.com/gui/file/ffbaf9364965b8333a69fae11d9f12e9cbc034a1ffe5ef2576018f4206bf0c1c/detection)
+Every installer is scanned on VirusTotal before release. TA Hub 1.0.5: **0 / 71** engines flag it · [view report](https://www.virustotal.com/gui/file/eecfc1e94a64642a6a7f106cb77e4b3cdd00841554841c448fb37a3eae003077/detection)
 
 **SHA-256**
 ```
-ffbaf9364965b8333a69fae11d9f12e9cbc034a1ffe5ef2576018f4206bf0c1c
+eecfc1e94a64642a6a7f106cb77e4b3cdd00841554841c448fb37a3eae003077
 ```
 
 ## Built with
