@@ -16,6 +16,8 @@
 
 TA Hub lists every TAPATCH tool with its screenshots, videos, release notes and download count, the same as its page on tapatch.com. Install any tool in one click, update everything at once, open, reinstall or uninstall them, or go back to an older version. New tools show up by themselves, and TA Hub can wait in the tray and tell you when a tool you have gets an update. Every installer comes straight from tapatch.com and only runs if TAPATCH's signature vouches for it.
 
+[![Watch on YouTube](https://img.youtube.com/vi/7RPCr-Z9A3I/hqdefault.jpg)](https://www.youtube.com/watch?v=7RPCr-Z9A3I)
+
 ## Features
 
 Install, update and open every TAPATCH tool from one small app, and never miss a release.
